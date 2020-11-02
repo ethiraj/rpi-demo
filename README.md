@@ -1,6 +1,6 @@
 ## How to build docker images on Windows and MacOS machines that can run on Raspberry Pi
 
-###Introduction 
+### Introduction 
 
 A few weeks ago, I started setting up k3s cluster on Raspberry Pi and I was trying to deploy one of my docker image. Soon realized that I can't run my existing docker image on Raspberry Pi.
 
